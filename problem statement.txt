@@ -1,0 +1,18 @@
+It is a freelancer problem.
+
+A web-application for a Library. It should have following pages
+
+1. Page to add Books
+
+2. View Only Page with all the records.
+
+3. Admin Page to manage the books.
+
+4. User Logged in Details. 
+
+
+It has to be a web application to be deployed on tomcat
+
+Technology Stack : Spring, Spring JDBC with MYSQL, Java, JSP , HTML , CSS 
+
+Should have a logging functionality plus some basic pages offering add/delete/modify & view operations.
